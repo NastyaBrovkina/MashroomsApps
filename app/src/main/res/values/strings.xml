@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MashroomsApps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="error_maps_gps">Fail connect to place api</string>
+
+    <string name="dialog_info_map_add_marker_text">Add marker?</string>
+    <string name="dialog_info_map_internet_deprecated_text">Before turn on the Internet</string>
+    <string name="dialog_info_map_destroy_activity_text">Save marker before close?</string>
+    <string name="dialog_info_map_positive">Ok</string>
+    <string name="dialog_info_map_negative">Cancel</string>
+</resources>
